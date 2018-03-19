@@ -2,3 +2,9 @@
 
 running on local machine, to play hit
 `build-alert.local/playFanfare`
+
+control volume with  `/volume`
+
+`/volume/up` increases volume
+`/volume/down` decreases volume
+`/volume/set/{int}` sets volume to that level
